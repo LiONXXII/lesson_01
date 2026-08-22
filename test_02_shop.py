@@ -30,4 +30,4 @@ def test_shop():
     total = checkout_page.get_total()
     assert "$58.29" in total
 
-    driver.quit()
+    driver.quit() # Комментарий для PR
