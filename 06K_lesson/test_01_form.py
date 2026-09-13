@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
 
-
+# Комментарий для PR
 def test_form():
     options = Options()
     options.add_argument("--headless")
