@@ -1,9 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from pages.login_page import LoginPage
-from pages.main_page import MainPage
-from pages.cart_page import CartPage
-from pages.checkout_page import CheckoutPage
+from lesson_07.pages.login_page import LoginPage
+from lesson_07.pages.main_page import MainPage
+from lesson_07.pages.cart_page import CartPage
+from lesson_07.pages.checkout_page import CheckoutPage
 
 
 def test_shop():

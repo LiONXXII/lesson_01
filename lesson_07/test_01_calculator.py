@@ -1,5 +1,5 @@
 from selenium import webdriver
-from pages.calculator_page import CalculatorPage
+from lesson_07.pages.calculator_page import CalculatorPage
 
 
 def test_calculator():
