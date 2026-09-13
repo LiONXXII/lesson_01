@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-
+# Комментарий для PR
 def test_session_storage_auth():
     driver = webdriver.Chrome()
 
