@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
+# Комментарий для PR
 def test_links_count():
     driver = webdriver.Chrome()
     driver.get("https://httpbin.qa-territory.online/links/10")
