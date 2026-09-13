@@ -5,7 +5,7 @@ from lesson_07.pages.main_page import MainPage
 from lesson_07.pages.cart_page import CartPage
 from lesson_07.pages.checkout_page import CheckoutPage
 
-
+# Комментарий для PR
 def test_shop():
     options = Options()
     options.add_argument("--headless")
