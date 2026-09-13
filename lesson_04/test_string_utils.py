@@ -1,6 +1,6 @@
 import pytest
 from lesson_04.string_utils import StringUtils
-
+# Комментарий для PR
 string_utils = StringUtils()
 
 
