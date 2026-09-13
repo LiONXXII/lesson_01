@@ -1,4 +1,4 @@
-from address import Address  # noqa: F401
+from lesson_03.address import Address  # noqa: F401
 
 
 class Mailing:
